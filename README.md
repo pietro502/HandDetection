@@ -1,2 +1,2 @@
 # HandDetection
-(https://github.com/pietro502/HandDetection/files/10892031/Bresolin_Gonella_Picardi_report.pdf)
+This repository contains the code to perform the tasks of detection and colorization given images with hands.
